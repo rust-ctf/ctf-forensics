@@ -1,0 +1,11 @@
+[package]
+name = "ctf-forensics"
+version = "0.1.0"
+edition = "2021"
+authors = ["Jovan Pavlovic"]
+description = "Forensics utilities for Rust."
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
